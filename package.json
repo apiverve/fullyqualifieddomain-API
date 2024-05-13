@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/fullyqualifieddomain",
+  "version": "1.0.0",
+  "description": "Fully Qualified Domain Name is a simple tool for getting the fully qualified domain name (FQDN) of an IP. It returns the fully qualified domain name of the ip provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/fullyqualifieddomain-API.git"
+  },
+  "keywords": [
+    "fully qualified domain name"," fully qualified domain name api"," fully qualified domain name tool"," fully qualified domain name software"," fully qualified domain name service"," fully qualified domain name library"," fully qualified domain name sdk"," fully qualified domain name code"," fully qualified domain name script"," fully qualified domain name program"," fully qualified domain name application"," fully qualified domain name app"," fully qualified domain name utility"," fully qualified domain name helper"," fully qualified domain name helper tool"," fully qualified domain name helper software"," fully qualified domain name helper service"," fully qualified domain name helper library"," fully qualified domain name helper sdk"," fully qualified domain name helper code"," fully qualified domain name helper script"," fully qualified domain name helper program"," fully qualified domain name helper application"," fully qualified domain name helper app"," fully qualified domain name helper utility"," fully qualified domain name helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/fullyqualifieddomain-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/fullyqualifieddomain-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}

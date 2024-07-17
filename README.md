@@ -71,10 +71,10 @@ api.execute(query, function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "ip": "199.30.24.0",
     "baseDomain": "msn.com",
+    "detected": true,
     "fqdn": "msnbot-199-30-24-0.search.msn.com",
-    "detected": true
+    "ip": "199.30.24.0"
   }
 }
 ```
